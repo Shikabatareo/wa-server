@@ -1,8 +1,6 @@
 # wa-server
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Node.js + Prisma + PostgreSql + Express
 
 http://worrkout-app.ru/
 
